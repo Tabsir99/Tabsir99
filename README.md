@@ -11,14 +11,11 @@ I'm always eager to learn and improve. Dedication for me is about quietly giving
 
 🤝 **Team Effort:** I look forward to joining forces with others to create something valuable.
 
-🌱 I’m currently learning **React**, **Bootstrap**, **SCSS**, and diving into **Next.js** for advanced frontend development.
+🌱 I work with React, Tailwind for the frontend and expressJS with node for the backend with both sort of database(SQL such as postgres and noSQL such as MongoDB, firestore etc, I am also exploring java for the backend currently.
 
 💞️ I’m looking to collaborate on innovative projects that leverage these technologies and push the boundaries of web development.
  
-📫 How to reach me: Email me at tabsirconnects@gmail.com .
-
-Coming up next, I'll be exploring backend technologies like **Node.js**, **Express**, and **NestJS**, as well as mastering **APIs**, **MySQL** to round out my full-stack expertise.
-
+📫 How to reach me: Email me at hello@tabsircg.com .
 
 I'd be happy to share my projects and see how we can support each other's success.
 
