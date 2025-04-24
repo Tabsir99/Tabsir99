@@ -11,7 +11,7 @@ I'm always eager to learn and improve. Dedication for me is about quietly giving
 
 🤝 **Team Effort:** I look forward to joining forces with others to create something valuable.
 
-🌱 I work with React, Tailwind for the frontend and expressJS with node for the backend with both sort of database(SQL such as postgres and noSQL such as MongoDB, firestore etc, I am also exploring java for the backend currently.
+🌱 I work with React, Tailwind for the frontend and expressJS with node for the backend with both sort of database(SQL such as postgres and noSQL such as MongoDB, firestore etc.
 
 💞️ I’m looking to collaborate on innovative projects that leverage these technologies and push the boundaries of web development.
  
